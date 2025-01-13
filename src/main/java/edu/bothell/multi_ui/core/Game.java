@@ -51,6 +51,10 @@ public class Game {
         return active.getChar();
     }
 
+
+    public void endGame(){
+        //TODO
+    }
     public Player getActive() {
         return this.active;
     }
